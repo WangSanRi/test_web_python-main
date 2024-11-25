@@ -68,8 +68,6 @@ ___________________________________________________________
 
 # 运行效果
 
-![image-20241125201454109](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20241125201454109.png)
-
-![image-20241125201225003](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20241125201225003.png)
-
-![image-20241125201313854](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20241125201313854.png)
+![输入图片说明](imgsimage-20241125201454109.png)
+![输入图片说明](imgsimage-20241125201225003.png)
+![输入图片说明](imgsimage-20241125201313854.png)
